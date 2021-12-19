@@ -1,0 +1,14 @@
+idle
+up
+down
+left
+right
+
+each have 4 frames
+4*5=20
+20*16=320
+
+1 1
+-1 -1
+1 -1
+-1 1
